@@ -15,9 +15,9 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #828282;
-  background: #fff;
-  background: url(../images/home.jpg) no-repeat center center fixed;
+  background: linear-gradient(to right bottom,
+  rgba(126,213,111,0.3),
+  rgba(40,180,131,0.4));
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -318,7 +318,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   bottom: 0;
   top: 0;
-  height: 1600px;
+  height: 900px;
   left: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.4);
