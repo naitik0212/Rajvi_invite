@@ -5,7 +5,7 @@
  * License : MIT
  * Version : 1.3.2
  * Author : Vincent Loy <vincent.loy1@gmail.com>
- * Contributors : 
+ * Contributors :
  *  - Justin Beasley <JustinB@harvest.org>
  *  - Nathan Smith <NathanS@harvest.org>
  */
@@ -116,9 +116,9 @@
      */
     simplyCountdown = function (elt, args) {
         var parameters = extend({
-                year: 2018,
-                month: 12,
-                day: 9,
+                year: 2019,
+                month: 3,
+                day: 20,
                 hours: 0,
                 minutes: 0,
                 seconds: 0,
@@ -192,9 +192,9 @@
                         now.getHours(), now.getMinutes(), now.getSeconds());
                     targetDate = new Date(
                         2019,
-                        3,
-                        4,
-                        9,
+                        2,
+                        30,
+                        23,
                         0,
                         0
                     );
