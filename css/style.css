@@ -21,7 +21,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
   background-image: url(../images/home.jpg);
-  background-position: right;
+  background-position: left;
   background-repeat: no-repeat;
   background-attachment: fixed;
 
