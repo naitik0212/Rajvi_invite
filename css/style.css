@@ -15,7 +15,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  /*background: radial-gradient(white, #bdc3c7,#2c3e50);*/
+  background: radial-gradient(white, #bdc3c7,#2c3e50);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -24,7 +24,6 @@ body {
   background-position: left;
   background-repeat: no-repeat;
   background-attachment: fixed;
-
 }
 
 
